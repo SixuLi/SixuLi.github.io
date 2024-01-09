@@ -14,6 +14,7 @@ I am a third year PhD student in the Department of Statistics at University of W
 Email: sli739@wisc.edu
 
 
+
 Publications
 ======
 
@@ -34,6 +35,8 @@ Others
 - [Wasserstein Barycenter-based Model Fusion and Linear Mode Connectivity of Neural Networks](https://arxiv.org/abs/2210.06671)\
   Aditya Kumar Akash, **Sixu Li**, Nicolás García Trillos\
   Preprint
+
+
 
 Teaching Experiences
 ======
