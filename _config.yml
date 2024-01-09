@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sixu Li"
-  avatar           : "images/image-alignment-580x300.jpg"
+  avatar           : "image-alignment-580x300.jpg"
   bio              : "PhD student at University of Wisconsin-Madison"
   location         : "Madison, WI, USA"
   employer         :
