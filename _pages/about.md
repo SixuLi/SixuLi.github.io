@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to my homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage!
 
 I am a third year PhD student in the Department of Statistics at University of Wisconsin-Madison (UW-Madison). I am very fortunate to work under the supervision of Prof. [Nicolás García Trillos](https://www.nicolasgarciat.com/) and [Qin Li](https://sites.google.com/view/qinlimadison/home?authuser=0). My current research lies in the intersection of applies mathematics and machine learning, with a particular focus on Interacting Particle System, Federated Learning, Score-based Generative Models. Prior to UW-Madison, I got my BS in Mathematics and Statistics in Nanjing Univeristy (NJU) in Nanjing China.
 
