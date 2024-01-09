@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Sixu Li"
-  avatar           : "images/IMG_0801.JPG"
+  avatar           : "personal_photo.JPG"
   bio              : "PhD student"
   location         : "Madison, WI, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FY6534gAAAAJ&hl=en&authuser=1"
-  email            :
+  email            : "sli739@wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/SixuLi"
   google_plus      :
   keybase          :
   instagram        :
