@@ -23,7 +23,7 @@ Email: sli739@wisc.edu
 Publications
 ------
 **Interacting Particle System and Federated Learning**
-- [FedCBO: Reaching Group Consensus in the Clustered Federated Learning through Consensus-based Optimazation](https://arxiv.org/abs/2305.02894)\
+- [FedCBO: Reaching Group Consensus in Clustered Federated Learning through Consensus-based Optimazation](https://arxiv.org/abs/2305.02894)\
   José A. Carrillo, Nicolás García Trillos, **Sixu Li**, Yuhua Zhu\
   JMLR (accepted with minor revision)
   
