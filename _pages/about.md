@@ -42,11 +42,11 @@ Publications
 
 Teaching Experiences
 ------
-- Spring 2022, 2023, 2024:\
+- Spring 2024, 2023, 2022:\
   STAT 615: Statistical Learning (TA)
 - Fall 2023:\
   STAT 605: Data Science Computing Project (TA)
-- Fall 2022, Summer 2023:\
+- Summer 2023, Fall 2022:\
   STAT 301: Introduction to Statistical Methods (TA)
 - Fall 2021:\
   STAT 312: Introduction to Theory and Methods of Mathematical Statistics II (TA)
