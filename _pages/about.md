@@ -15,7 +15,7 @@ Prior to UW-Madison, I got my BS in Mathematics and Statistics in Nanjing Univer
 
 My current research lies in the intersection of applies mathematics and machine learning, particularly focus on Interacting Particle System, Federated Learning, and Score-based Generative Models. 
 
-My full CV can be found [here](https://github.com/SixuLi/SixuLi.github.io/blob/master/files/Sixu_CV.pdf).
+My full CV can be found [here](https://SixuLi.github.io/files/Sixu_CV.pdf).
 
 Email: sli739@wisc.edu
 
