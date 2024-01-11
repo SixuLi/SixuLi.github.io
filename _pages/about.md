@@ -31,7 +31,7 @@ Publications
   
 
 **Score-based Generative Models**
-- A Good Score Does not Lead to A Good Generative Model\
+- [A Good Score Does not Lead to A Good Generative Model](https://arxiv.org/abs/2401.04856)\
   **Sixu Li**, Shi Chen, Qin Li\
   Preprint
   
