@@ -10,9 +10,7 @@ redirect_from:
 ---
 
 <!-- Add MathJax in the <head> section -->
-<script type="text/javascript" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 I am a fourth year PhD student in the Department of Statistics at University of Wisconsin-Madison (UW-Madison). 
 I am very fortunate to work under the supervision of Prof. [Nicolás García Trillos](https://www.nicolasgarciat.com/) and Prof. [Qin Li](https://sites.google.com/view/qinlimadison/home?authuser=0). 
@@ -34,7 +32,7 @@ Publications
   Nicolás García Trillos, Aditya Kumar Akash, **Sixu Li**, Konstantin Riedl, Yuhua Zhu\
   Preprint
 
-- [CB\(^2\)O: Consensus-Based Bi-Level Optimization](https://www.arxiv.org/abs/2411.13394)\
+- [CB$`^2`$O: Consensus-Based Bi-Level Optimization](https://www.arxiv.org/abs/2411.13394)\
   Nicolás García Trillos, **Sixu Li**, Konstantin Riedl, Yuhua Zhu\
   Preprint
 
