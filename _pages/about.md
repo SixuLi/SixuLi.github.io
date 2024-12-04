@@ -32,7 +32,7 @@ Publications
   Nicolás García Trillos, Aditya Kumar Akash, **Sixu Li**, Konstantin Riedl, Yuhua Zhu\
   Preprint
 
-- [CB$`^2`$O: Consensus-Based Bi-Level Optimization](https://www.arxiv.org/abs/2411.13394)\
+- [CB<sup>2</sup>O: Consensus-Based Bi-Level Optimization](https://www.arxiv.org/abs/2411.13394)\
   Nicolás García Trillos, **Sixu Li**, Konstantin Riedl, Yuhua Zhu\
   Preprint
 
