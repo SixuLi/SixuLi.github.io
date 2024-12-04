@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a third year PhD student in the Department of Statistics at University of Wisconsin-Madison (UW-Madison). 
+I am a fourth year PhD student in the Department of Statistics at University of Wisconsin-Madison (UW-Madison). 
 I am very fortunate to work under the supervision of Prof. [Nicolás García Trillos](https://www.nicolasgarciat.com/) and Prof. [Qin Li](https://sites.google.com/view/qinlimadison/home?authuser=0). 
 Prior to UW-Madison, I got my BS in Mathematics and Statistics in Nanjing Univeristy (NJU) in Nanjing China. 
 
@@ -25,9 +25,17 @@ Email: sli739@wisc.edu
 Publications
 ------
 **Interacting Particle System and Federated Learning**
-- [FedCBO: Reaching Group Consensus in Clustered Federated Learning through Consensus-based Optimazation](https://arxiv.org/abs/2305.02894)\
+- [Defending Against Diverse Attacks in Federated Learning Through Consensus-Based Bi-Level Optimization](https://arxiv.org/abs/2412.02535)\
+  Nicolás García Trillos, Aditya Kumar Akash, **Sixu Li**, Konstantin Riedl, Yuhua Zhu\
+  Preprint
+
+- [CB$`^2`$O: Consensus-Based Bi-Level Optimization](https://www.arxiv.org/abs/2411.13394)\
+  Nicolás García Trillos, **Sixu Li**, Konstantin Riedl, Yuhua Zhu\
+  Preprint
+
+- [FedCBO: Reaching Group Consensus in Clustered Federated Learning through Consensus-based Optimazation](https://www.jmlr.org/papers/v25/23-0764.html)\
   José A. Carrillo, Nicolás García Trillos, **Sixu Li**, Yuhua Zhu\
-  JMLR (accepted with minor revision)
+  Jounal of Machine Learning Research (2024)
   
 
 **Score-based Generative Models**
