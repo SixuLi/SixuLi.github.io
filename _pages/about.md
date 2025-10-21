@@ -19,7 +19,7 @@ Prior to UW-Madison, I got my BS in Mathematics and Statistics in Nanjing Univer
 My current research lies in the intersection of applies mathematics and machine learning, with a particular focus on
 Interacting Particle Systems, Non-convex Optimization, Multi-Agent-Based Learning, and Generative Modeling.
 
-My full CV can be found [here](https://SixuLi.github.io/files/Sixu_CV.pdf).
+My full CV can be found [here](https://SixuLi.github.io/files/Sixu_Li_CV.pdf).
 
 Email: sli739@wisc.edu
 
