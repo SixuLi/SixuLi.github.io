@@ -23,7 +23,7 @@ My full CV can be found [here](https://SixuLi.github.io/files/Sixu_Li_CV.pdf).
 
 Email: sli739@wisc.edu
 
-**I am seeking postdoctoral positions beginning Summer/Fall of 2026**
+**I am seeking postdoctoral positions beginning Summer/Fall of 2026.**
 
 
 
@@ -47,7 +47,7 @@ Publications
   In preparation
   
 
-**Score-based Generative Models**
+**Generative Modeling**
 - When Does Noise Help in Stochastic Interpolants: A Non-Asymptotic Analysis and Optimal Design\
   **Sixu Li**, Ethan Hanold, Nicholas Boffi, Leonardo Zepeda-Núñez, Qin Li\
   In preparation
